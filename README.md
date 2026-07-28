@@ -50,7 +50,7 @@ This dashboard answers these questions using interactive visualizations and busi
 
 ## Executive Dashboard
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](PhonePaydashboard.png)
 
 ---
 
