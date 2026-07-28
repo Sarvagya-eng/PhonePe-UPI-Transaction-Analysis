@@ -214,6 +214,14 @@ Aspiring Data Analyst passionate about Business Intelligence, Data Visualization
 
 LinkedIn: https://www.linkedin.com/in/sarvagya--jain/
 
+## 📜 License
+
+This project is **All Rights Reserved**.
+
+It is shared publicly for portfolio and learning purposes only. Reuse, redistribution, modification, or commercial use of any part of this repository without prior written permission is prohibited.
+
+© 2026 Sarvagya Jain. All rights reserved.
+
 
 
 
